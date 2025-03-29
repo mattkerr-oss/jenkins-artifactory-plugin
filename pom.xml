@@ -316,7 +316,7 @@
         <dependency>
             <groupId>commons-codec</groupId>
             <artifactId>commons-codec</artifactId>
-            <version>1.4</version>
+            <version>1.13</version>
         </dependency>
         <dependency>
             <groupId>commons-io</groupId>
@@ -556,7 +556,7 @@
                     <url>http://oss.jfrog.org/artifactory/jfrog-dependencies</url>
                 </repository>
                 <repository>
-                    <snapshots />
+                    <snapshots/>
                     <id>snapshots</id>
                     <name>libs-snapshot</name>
                     <url>http://oss.jfrog.org/artifactory/libs-snapshot</url>
@@ -572,7 +572,7 @@
                     <url>http://oss.jfrog.org/artifactory/jfrog-dependencies</url>
                 </pluginRepository>
                 <pluginRepository>
-                    <snapshots />
+                    <snapshots/>
                     <id>snapshots</id>
                     <name>plugins-snapshot</name>
                     <url>http://oss.jfrog.org/artifactory/plugins-snapshot</url>
